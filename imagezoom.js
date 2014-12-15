@@ -1,6 +1,6 @@
 /**
  * imagezoom
- * http://0401morita.github.io/imagezoom-plugin
+ * https://github.com/0401morita/imagezoom-plugin.git
  * MIT licensed
  *
  * Copyright (C) 2014 project by Yosuke Morita
